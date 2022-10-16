@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.logo{
+    width: 100%;
+    height: 80px;
+    //display: flex;
+    background-color: brown;
+    //text-align: center;
+    color: white;
+    font-size: bold;
+}
+p{
+    text-align: center;
+}
+h3{
+    padding-top: 2rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+// formulaio
+.container{
+    padding-top: 2rem;
+    padding-left: 5rem;
+
+}
